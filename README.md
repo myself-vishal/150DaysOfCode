@@ -1,6 +1,6 @@
 # 150DaysOfCode
 
-this repo will comtains my 150 days of code learning journey!
+this repo will contain my 150 days of code learning journey!
 
-DSA, Java programming, CS fundamentals and its practice problems and 
+DSA, Java programming, CS fundamentals, interview prep and its practice problems and 
 Web3 development
